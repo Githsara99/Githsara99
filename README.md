@@ -36,18 +36,7 @@ Sri Lanka Institute of Information Technology (SLIIT)
 **GCE Advanced Level – Physical Science (2019)**  
 Delta Gemunupura College, Pussellawa  
 
----
 
-## 💼 Experience  
-
-### Intern Web Developer — *Codesight Global* (Nov 2023 – Mar 2024)
-
-- Built applications using **Next.js, React.js, and Tailwind CSS**  
-- Developed reusable UI components  
-- Created a business dashboard for inventory, sales, and kitchen operations  
-- Worked in an **Agile** environment  
-- Used **Git & GitHub** for version control  
-- Built responsive and user-friendly interfaces  
 
 ---
 
